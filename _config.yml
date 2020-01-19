@@ -26,13 +26,13 @@ navbar-links:
     - Qui sommes-nous ?: "a-propos"
     - Notre projet physio: "notre-projet-physio"
   Se renseigner:
-    - C'est quoi la physio ?: "todo"
-    - Brochure d'information: "todo"
-    - Questionnaire physio: "todo"
+    - C'est quoi la physio ?: "cest-quoi-la-physio"
+    - Brochure d'information: "brochure"
+    - Questionnaire physio: "notre-questionnaire-physio"
     - Annuaire Rhône-Alpes: "annuaire-physio"
-    - Ressources: "todo"
+    - Ressources: "ressources"
   Se rencontrer:
-    - Agenda des cafés physio: "agenda"
+    - Agenda des cafés physio: "agenda-des-cafes-physio"
     - Paroles: "paroles"
     - Contact: "contact"
 
