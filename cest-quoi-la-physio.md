@@ -3,7 +3,7 @@ layout: page
 title: C’est quoi la physio ?
 ---
 
-## Qu'est-ce qu'un accouchement physiologique ?
+## Qu’est-ce qu’un accouchement physiologique ?
 
 Pour l’OMS, l’accouchement physiologique est défini comme suit :
 
