@@ -29,7 +29,7 @@ navbar-links:
     - C'est quoi la physio ?: "todo"
     - Brochure d'information: "todo"
     - Questionnaire physio: "todo"
-    - Annuaire Rhône-Alpes: "todo"
+    - Annuaire Rhône-Alpes: "annuaire-physio"
     - Ressources: "todo"
   Se rencontrer:
     - Agenda des cafés physio: "agenda"
