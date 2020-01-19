@@ -52,6 +52,9 @@ navbar-links:
 # txt color #2d3433
 # bg color #f4f4f4
 
+main-color: "#822858"
+contrast-color: "#f19c1c"
+
 navbar-col: "#822858"
 navbar-text-col: "#fff"
 navbar-children-col: "#75244f"

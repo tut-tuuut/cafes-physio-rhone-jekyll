@@ -1,0 +1,9 @@
+---
+layout: null
+---
+
+.phy-high {
+    color: {{ site.contrast-color }};
+    text-align: center;
+    font-weight: bold;
+}
