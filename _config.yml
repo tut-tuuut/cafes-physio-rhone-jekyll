@@ -173,10 +173,10 @@ date_format: "%-d %B %Y"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+timezone: "Europe/Paris"
 markdown: kramdown
 highlighter: rouge
-permalink: /:year-:month-:day-:title/
+permalink: /:year/:month/:day/:title/
 paginate: 5
 
 kramdown:
@@ -186,7 +186,7 @@ kramdown:
 defaults:
   -
     scope:
-      path: ""
+      path: "_posts"
       type: "posts"
     values:
       layout: "post"
@@ -228,7 +228,7 @@ prose:
     - /img
     - /js
   metadata:
-    _posts:
+    _actualites:
       - name: "layout"
         field:
           element: "hidden"
@@ -236,34 +236,34 @@ prose:
       - name: "title"
         field:
           element: "text"
-          label: "Post title"
-          placeholder: "Title"
+          label: "Titre de l’actualité"
+          placeholder: "Titre"
           alterable: true
       - name: "subtitle"
         field:
           element: "textarea"
-          label: "Subtitle"
-          placeholder: "A description of your post."
+          label: "Sous-titre"
+          placeholder: "Sous-titre, facultatif"
           alterable: true
       - name: "date"
         field:
           element: "text"
           label: "Date"
-          help: "Enter date of post."
-          placeholder: "yyyy-mm-dd"
+          help: "Date de publication au format aaaa-mm-jj"
+          placeholder: "aaaa-mm-jj"
           alterable: true
       - name: "image"
         field:
           element: "text"
           label: "Image"
-          help: "Add a thumbnail image to your post."
-          placeholder: "Thumbnail"
+          help: "Ajout d'une image d'aperçu à l'actualité"
+          placeholder: "Chemin"
           alterable: true
       - name: "published"
         field:
           element: "checkbox"
-          label: "Publish"
-          help: "Check to publish post, uncheck to hide."
+          label: "Publier"
+          help: "Cochez pour publier l’actualité, sinon elle restera en mode brouillon."
 
 plugins:
   - jekyll-paginate

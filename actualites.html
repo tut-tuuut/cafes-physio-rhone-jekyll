@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Actualités
-subtitle: Autour de l'accouchement en Rhône-Alpes
+subtitle: Autour de l’accouchement en Rhône-Alpes
 ---
 
 <div class="posts-list">
-  {% for post in paginator.posts %}
+  {% for post in site.posts %}
   <article class="post-preview">
     <a href="{{ post.url | relative_url }}">
 	  <h2 class="post-title">{{ post.title }}</h2>
@@ -54,18 +54,3 @@ subtitle: Autour de l'accouchement en Rhône-Alpes
    </article>
   {% endfor %}
 </div>
-
-{% if paginator.total_pages > 1 %}
-<ul class="pager main-pager">
-  {% if paginator.previous_page %}
-  <li class="previous">
-    <a href="{{ paginator.previous_page_path | relative_url }}">&larr; Actualités plus récentes</a>
-  </li>
-  {% endif %}
-  {% if paginator.next_page %}
-  <li class="next">
-    <a href="{{ paginator.next_page_path | relative_url }}">Actualités plus anciennes &rarr;</a>
-  </li>
-  {% endif %}
-</ul>
-{% endif %}
