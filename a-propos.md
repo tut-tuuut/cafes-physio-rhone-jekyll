@@ -12,18 +12,17 @@ Nous nous réunissons depuis quelques années à Lyon.
 
 <p>À nos débuts, en 2014, nous souhaitions créer une maison de naissance dans la région lyonnaise. Ce projet n’a pas pu aboutir, mais nous avons continué à nous rencontrer, partager nos envies, nos témoignages, nos lectures, nos rêves, autour du sujet qui nous réunissait : <strong style="font-style: italic; display:block; font-size: 1.5em; text-align: center; padding: .8em">la naissance respectée.</strong></p>
 
-
 Nous avons notamment créé une brochure d’information sur l’accouchement, que vous pouvez retrouver dans notre rubrique dédiée.
 
 ![Photo de groupe](/img/photo-de-groupe.jpg){: .center-block :}
- 
+
 
 [Agnès Janin](http://agnesjanin.wixsite.com/agnesjanin) – Parent – Professeure/écrivaine  
 La Cause des parents
 
 Anne Gouttenoire – Sage-femme libérale
 
-[Barbara Dessez](http://barbaradessez.com) – Psychomotricienne
+[Barbara Dessez](https://www.psychomotricite-lyon-ouest.fr/) – Psychomotricienne
 
 Catherine De Weck – Sage-femme libérale
 
