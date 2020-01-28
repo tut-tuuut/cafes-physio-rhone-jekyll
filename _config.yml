@@ -229,7 +229,7 @@ prose:
     - /img
     - /js
   metadata:
-    _actualites:
+    _posts:
       - name: "layout"
         field:
           element: "hidden"
