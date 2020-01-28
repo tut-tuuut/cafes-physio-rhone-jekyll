@@ -228,6 +228,10 @@ img {
   border-width: 0 1px 1px 1px;
   font-weight: normal;
 }
+.navbar-custom .nav .navlinks-container .navlinks-children a:hover {
+  background-color: #531938;
+  color: #fff;
+}
 @media only screen and (max-width: 767px) {
   .navbar-custom .nav .navlinks-container.show-children {
     background: rgba(0, 0, 0, 0.2);
@@ -251,7 +255,6 @@ img {
   }
   .navbar-custom .nav .navlinks-container .navlinks-children a {
     padding-left: 10px;
-    border: 1px solid #eaeaea;
     border-width: 0 1px 1px;
   }
 }
