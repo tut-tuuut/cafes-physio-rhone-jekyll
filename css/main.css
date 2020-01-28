@@ -105,7 +105,7 @@ img {
 
 .navbar-custom {
   background-color: {{ site.navbar-col }};
-  border-bottom: 1px solid #EAEAEA;
+  border-bottom: none;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   {% if site.navbar-img %}
   background-image: url({{ site.navbar-img | relative_url }});
@@ -164,6 +164,16 @@ img {
   }
 }
 
+@media only screen and (min-width: 768px) and (max-width: 980px) {
+  .navbar-custom {
+    padding: 10px 0;
+  }
+
+  .navbar-custom.top-nav-short {
+    padding: 0;
+  }
+}
+
 .navbar-custom .avatar-container {
   position: absolute;
   left: 50%;
@@ -204,6 +214,17 @@ img {
 
   .navbar-custom .avatar-container .avatar-img {
     width: 100%;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .navbar-default .navbar-brand {
+    position: absolute;
+    height: auto;
+    right: 4em;
+    left: 0;
+    background-color: #822858;
+    border-radius: .5em 0;
   }
 }
 
@@ -786,4 +807,14 @@ pre {
   color: #808080;
   font-style: italic;
   font-size: 16px;
+}
+
+/* Fix bootstrap menu color */
+
+.navbar-default .navbar-toggle .icon-bar {
+  background-color: #fff;
+}
+
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+  border-color: {{ site.contrast-color }};
 }
