@@ -6,6 +6,6 @@ Il s'agit d'un site Jekyll, hébergé simplement sur Github Pages, et créé à 
 
 ## Accès rapides
 
-- [MAJ de l'agenda](agenda-des-cafes-physio.md)
-- [MAJ de l'annuaire](annuaire-physio.md)
+- [MAJ de l'agenda](https://github.com/tut-tuuut/cafes-physio-rhone-jekyll/edit/master/agenda-des-cafes-physio.md)
+- [MAJ de l'annuaire](https://github.com/tut-tuuut/cafes-physio-rhone-jekyll/edit/master/annuaire-physio.md)
 - [Nouvelle actu via prose.io](https://prose.io/#tut-tuuut/cafes-physio-rhone-jekyll/new/master/_posts) (c'est bien, ce truc !)
