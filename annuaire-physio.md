@@ -49,7 +49,7 @@ Pour la contacter : 06 47 81 58 99 – annedoula@free.fr
 **Dorothée Cottarel** – Lyon et sud ouest lyonnais – Organisatrice de Naître Parents  
 Pour la contacter : 06 62 19 13 31
 
-[**Élodie Cussigh** – Doula, soutien périnatal, massage femme enceinte – Vernaison](www.doula-mama.com)  
+[**Élodie Cussigh** – Doula, soutien périnatal, massage femme enceinte – Vernaison](https://www.doula-mama.com)  
 Pour la contacter : 06 12 15 21 51  
 
 [**Christine Dauvier** – Lyon, Décines](https://www.facebook.com/sterenndoula/?fref=gc&dti=798953136900048&hc_location=ufi)  
