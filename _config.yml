@@ -54,12 +54,13 @@ navbar-links:
 
 main-color: "#822858"
 contrast-color: "#f19c1c"
+header-color: "#f19c1c"
 
 navbar-col: "#822858"
 navbar-text-col: "#fff"
 navbar-children-col: "#75244f"
 page-col: "#f4f4f4"
-link-col: "#f19c1c"
+link-col: "#822858"
 hover-col: "#f19c1c"
 footer-col: "#eee"
 footer-text-col: "#2d3433"
