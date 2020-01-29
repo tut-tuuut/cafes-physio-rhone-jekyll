@@ -174,7 +174,7 @@ img {
 
 @media only screen and (min-width: 768px) and (max-width: 1072px) {
   .navbar-custom {
-    padding: 10px 0;
+    padding: 0;
   }
 
   .navbar-custom.top-nav-short {
