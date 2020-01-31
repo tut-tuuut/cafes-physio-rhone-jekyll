@@ -27,6 +27,7 @@ Dans cette rubrique, vous trouverez de quoi vous informer pour mener à bien vot
 - **Bien être et maternité** de Bernadette de Gasquet
 - **Le guide de la naissance naturelle** d’Ina May Gaskin
 - **Accoucher chez soi** de Jaqueline Lavillonière
+- **La naissance en BD - Découvrez vos super pouvoirs !** de Lucile Gomez, qui a également illustré notre site et notre brochure
 
 ## Documents
 
