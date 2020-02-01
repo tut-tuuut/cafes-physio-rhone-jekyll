@@ -18,7 +18,7 @@ subtitle: Autour de l’accouchement en Rhône-Alpes
     </a>
 
     <p class="post-meta">
-      Le {{ post.date | date: site.date_format }}
+      Le {%include french_date.html date=post.date %}
     </p>
 
     <div class="post-entry-container">
