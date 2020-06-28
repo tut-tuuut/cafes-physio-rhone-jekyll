@@ -46,6 +46,9 @@ Pour la contacter : annechristine26@gmail.com
 **Anne Buffard** – Villefranche-sur-Saône  
 Pour la contacter : 06 47 81 58 99 – annedoula@free.fr
 
+[**Déborah Mandelsaft** - Lyon et Villeurbanne](https://deborahdoula.com/)
+Pour la contacter : 07 63 06 87 61 – contact@deborahdoula.com
+
 **Dorothée Cottarel** – Lyon et sud ouest lyonnais – Organisatrice de Naître Parents  
 Pour la contacter : 06 62 19 13 31
 
