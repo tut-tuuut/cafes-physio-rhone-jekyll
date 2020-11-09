@@ -25,13 +25,13 @@ navbar-links:
   Les Cafés Physio:
     - Qui sommes-nous ?: "a-propos"
     - Notre projet physio: "notre-projet-physio"
-  Se renseigner:
+  Outils:
     - C'est quoi la physio ?: "cest-quoi-la-physio"
     - Brochure d'information: "brochure"
     - Questionnaire physio: "notre-questionnaire-physio"
     - Annuaire Rhône-Alpes: "annuaire-physio"
     - Ressources: "ressources"
-  Se rencontrer:
+  Rencontres:
     - Agenda des cafés physio: "agenda-des-cafes-physio"
     - Paroles: "paroles"
     - Contact: "contact"
