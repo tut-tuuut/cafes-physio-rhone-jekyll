@@ -21,7 +21,6 @@ description: par le collectif des cafés physio
 # List of links in the navigation bar
 navbar-links:
   Accueil: "/"
-  Actualités: "actualites"
   Les Cafés Physio:
     - Qui sommes-nous ?: "a-propos"
     - Notre projet physio: "notre-projet-physio"
